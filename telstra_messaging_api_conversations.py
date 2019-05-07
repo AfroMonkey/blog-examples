@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Code for article:
-# http://blog.sigsec.net/posts/2019/03/sms-conversations-with-python.html
+# https://blog.sigsec.net/posts/2019/03/sms-conversations-with-python.html
 #
 
 import requests

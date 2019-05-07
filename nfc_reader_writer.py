@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Code for article:
-# http://blog.sigsec.net/posts/2019/04/reading-and-writing-nfc-tags.html
+# https://blog.sigsec.net/posts/2019/04/reading-and-writing-nfc-tags.html
 #
 # You'll need to use my fork of nfcpy for Python 3, found here:
 # https://github.com/sigsec/nfcpy

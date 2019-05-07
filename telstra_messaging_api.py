@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Code for article:
-# http://blog.sigsec.net/posts/2019/03/sending-smses-from-python.html
+# https://blog.sigsec.net/posts/2019/03/sending-smses-from-python.html
 #
 
 import requests
